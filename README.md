@@ -1,4 +1,5 @@
 # Discord RPC Generator
+> This is a fork of [this](https://github.com/ThatOneCalculator/DiscordRPCGenerator) too add some integrations like lastfm which I've been working on before this repo was released. Technical knowledge may be needed!
 ### Discord Rich Presence Generator, WITH BUTTONS!
 
 ![Big](https://linus-tech.tips/T7VQq5w27N.png)
